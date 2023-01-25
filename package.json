@@ -1,0 +1,16 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "1er",
+    "cypress",
+    "automatisation"
+  ],
+  "author": "victor",
+  "license": "ISC"
+}
